@@ -1,4 +1,4 @@
-# Creating a sample flask app with gunicorn in Docker
+# Creating a simple flask app with gunicorn in Docker
 https://medium.com/@kmmanoj/deploying-a-scalable-flask-app-using-gunicorn-and-nginx-in-docker-part-1-3344f13c9649
 
 ## Creating basic Flask Docker
